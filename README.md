@@ -1,4 +1,3 @@
-Here’s your updated and fully formatted README in clean Markdown, with corrected folder structure and consistent code blocks — ready to paste into your `README.md` file:
 
 ```markdown
 # 📌 Submission Reminder App
