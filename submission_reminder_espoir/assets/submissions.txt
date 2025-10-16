@@ -10,3 +10,6 @@ Samson, Shell Permissions, submitted
 Marie, Shell Permissions, not submitted
 Patrick, Shell Navigation, submitted
 Joy, Git, not submitted
+Patrick, Git, not submitted
+Gerard, Shell Basics, submitted
+Spongebob, Git, not submitted
